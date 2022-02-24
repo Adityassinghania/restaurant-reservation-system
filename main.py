@@ -1,0 +1,2 @@
+from restaurantreservatinosystemapp import app
+
